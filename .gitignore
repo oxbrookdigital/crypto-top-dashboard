@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# SQLite Database (optional - see note below)
+data/crypto_metrics.db
+data/last_successful_update.txt 
+
+# IDE/Editor specific files (examples)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
